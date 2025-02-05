@@ -1,0 +1,32 @@
+# Archivos de entorno
+.env
+.env.local
+.env.development
+
+# Dependencias
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+out/
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE/Editor
+.vscode/
+.idea/
+
+# Archivos de caché
+.cache/
+*.tmp
+
+# Archivos de pruebas
+test-data/
+fixtures/
